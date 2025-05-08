@@ -1,0 +1,11 @@
+.a{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+.b{
+    font-size: 2rem;
+    font-weight: bold;
+}
