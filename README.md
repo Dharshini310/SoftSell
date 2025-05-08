@@ -28,22 +28,6 @@ This project was built as part of the **Credex Web Development Internship Assign
 
 ---
 
-## 📂 Folder Structure
-
-softsell/
-├── public/
-│ └── softsell.PNG # Favicon/logo
-├── src/
-│ ├── components/
-│ │ ├── Hero.jsx
-│ │ ├── HowItWorks.jsx
-│ │ ├── WhyChooseUs.jsx
-│ │ ├── Testimonials.jsx
-│ │ └── ContactForm.jsx
-│ ├── App.jsx
-│ └── main.jsx
-├── index.html
-└── README.md
 
 ## 💡 Design Decisions
 **Chose Bootstrap** for simplicity, reliability, and mobile-first layout
